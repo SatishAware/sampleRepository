@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2017-12-14T02:40:25Z" finished-at="2017-12-14T02:40:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2017-12-14T02:40:25Z" finished-at="2017-12-14T02:40:25Z">
+      <class name="google.automationTest.Annotation_Order">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:google.automationTest.Annotation_Order@604ed9f0]" name="beforeSuite" is-config="true" duration-ms="17" started-at="2017-12-14T08:10:25Z" finished-at="2017-12-14T08:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:google.automationTest.Annotation_Order@604ed9f0]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-14T08:10:25Z" finished-at="2017-12-14T08:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClasss()[pri:0, instance:google.automationTest.Annotation_Order@604ed9f0]" name="beforeClasss" is-config="true" duration-ms="0" started-at="2017-12-14T08:10:25Z" finished-at="2017-12-14T08:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClasss -->
+        <test-method status="PASS" signature="beforeMeth()[pri:0, instance:google.automationTest.Annotation_Order@604ed9f0]" name="beforeMeth" is-config="true" duration-ms="0" started-at="2017-12-14T08:10:25Z" finished-at="2017-12-14T08:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMeth -->
+        <test-method status="PASS" signature="testngMeth1()[pri:0, instance:google.automationTest.Annotation_Order@604ed9f0]" name="testngMeth1" duration-ms="5" started-at="2017-12-14T08:10:25Z" finished-at="2017-12-14T08:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testngMeth1 -->
+        <test-method status="PASS" signature="beforeMeth()[pri:0, instance:google.automationTest.Annotation_Order@604ed9f0]" name="beforeMeth" is-config="true" duration-ms="1" started-at="2017-12-14T08:10:25Z" finished-at="2017-12-14T08:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMeth -->
+        <test-method status="PASS" signature="testngMeth2()[pri:0, instance:google.automationTest.Annotation_Order@604ed9f0]" name="testngMeth2" duration-ms="2" started-at="2017-12-14T08:10:25Z" finished-at="2017-12-14T08:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testngMeth2 -->
+      </class> <!-- google.automationTest.Annotation_Order -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

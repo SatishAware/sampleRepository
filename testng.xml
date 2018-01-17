@@ -1,0 +1,15 @@
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+
+<suite name="TestAutomation" verbose="1" >
+
+<test name="Regression1">
+    <classes>
+      <class name="google.automationTest.ChromeDemo"/>
+ 	  <class name="google.automationTest.GeckoDriverDemo"/>
+    </classes>
+  </test>
+</suite>
